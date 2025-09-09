@@ -1,0 +1,12 @@
+2025-09-09 12:51:01,916 - INFO - Connecting to SMTP server localhost:1025
+2025-09-09 12:51:01,918 - ERROR - SMTP error: [Errno 61] Connection refused
+2025-09-09 12:53:05,944 - INFO - Connecting to SMTP server localhost:1025
+2025-09-09 12:53:05,946 - ERROR - SMTP error: [Errno 61] Connection refused
+2025-09-09 12:53:50,857 - INFO - Connecting to SMTP server localhost:1025
+2025-09-09 12:53:54,031 - INFO - Connected: (250, b'OK')
+2025-09-09 12:53:54,035 - INFO - Email sent successfully from sender@example.com to recipient@example.com
+2025-09-09 13:05:43,369 - INFO - Connecting to SMTP server localhost:1025
+2025-09-09 13:05:43,372 - ERROR - SMTP error: [Errno 61] Connection refused
+2025-09-09 13:08:13,088 - INFO - Connecting to SMTP server localhost:1025
+2025-09-09 13:08:13,097 - INFO - Connected: (250, b'OK')
+2025-09-09 13:08:13,098 - INFO - Email sent successfully from sender@example.com to recipient@example.com

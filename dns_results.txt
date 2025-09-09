@@ -1,0 +1,10 @@
+2025-09-09 13:03:08,959 - A record for ftp.com: 217.19.241.50
+2025-09-09 13:03:09,516 - No MX records for ftp.com
+2025-09-09 13:03:09,996 - No CNAME records for ftp.com
+2025-09-09 13:03:32,842 - Error retrieving A record for 93.184.216.34: The DNS query name does not exist: 93.184.216.34.
+2025-09-09 13:03:32,847 - Error retrieving MX record for 93.184.216.34: The DNS query name does not exist: 93.184.216.34.
+2025-09-09 13:03:32,851 - Error retrieving CNAME record for 93.184.216.34: The DNS query name does not exist: 93.184.216.34.
+2025-09-09 13:06:31,801 - A record for dns.com: 206.119.85.32
+2025-09-09 13:06:31,966 - MX record for dns.com: 5 mxbiz1.qq.com.
+2025-09-09 13:06:31,966 - MX record for dns.com: 10 mxbiz2.qq.com.
+2025-09-09 13:06:32,427 - No CNAME records for dns.com
