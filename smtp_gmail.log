@@ -1,0 +1,4 @@
+2025-09-09 15:00:20,287 - INFO - Connecting to Gmail SMTP server smtp.gmail.com:587
+2025-09-09 15:00:21,326 - INFO - Starting TLS...
+2025-09-09 15:00:22,043 - INFO - Logged in as mahipalmaddu@gmail.com
+2025-09-09 15:00:23,563 - INFO - Email sent successfully to maneesh19405@gmail.com
